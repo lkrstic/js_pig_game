@@ -11,4 +11,4 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
-Note: The JavaScript was written by me, while the CSS was provided by this course: https://github.com/jonasschmedtmann/complete-javascript-course
+Note: The JavaScript was written by me, while the CSS and other design elements were provided by this course: https://github.com/jonasschmedtmann/complete-javascript-course
